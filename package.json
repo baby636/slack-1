@@ -47,7 +47,7 @@
     "chalk": "^3.0.0",
     "cheerio": "^0.22.0",
     "envify": "^4.1.0",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "jsmin": "^1.0.1",
     "mustache": "^3.1.0",
     "node-env-file": "^0.1.8",
